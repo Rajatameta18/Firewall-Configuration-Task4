@@ -1,6 +1,6 @@
 # Task 4:Firewall Configuration and Traffic Filtering
 
- Elevate Labs Cyber Security Internship-Task 4: Firewall Configuration and Traffic Filtering
+ ### Elevate Labs Cyber Security Internship-Task 4: Firewall Configuration and Traffic Filtering
 
 ## Objective
 The objective of this task is to configure and test basic firewall rules to learn how to allow or block network traffic. This task provides hands-on experience in managing network security via the Windows Firewall and PowerShell environment.
